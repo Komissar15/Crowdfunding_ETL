@@ -1,6 +1,6 @@
 Project Overview - Crowdfunding ETL
 
-Team Members:
+
 
 
 Introduction:
